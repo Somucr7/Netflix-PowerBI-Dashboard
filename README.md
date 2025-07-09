@@ -79,7 +79,7 @@ Designed and developed an interactive Power BI dashboard that explores Netflix�
 
 ## 🖼️ Dashboard Screenshot
 
-![Netflix Dashboard Screenshot][(https://github.com/Somucr7/Netflix-PowerBI-Dashboard/blob/main/Netflix%20Movies%20%26%20Shows%20Dashboard.png)]
+(https://github.com/Somucr7/Netflix-PowerBI-Dashboard/blob/main/Netflix%20Movies%20%26%20Shows%20Dashboard.png)
 
 
 
